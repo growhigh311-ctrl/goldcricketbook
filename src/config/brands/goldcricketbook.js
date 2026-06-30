@@ -5,8 +5,8 @@ export default {
   "theme": "goldcricketbook",
   "color": "Gold + Black",
   "domain": "goldcricketbook.com",
-  "phone": "+91 98765 43218",
-  "whatsapp": "+91 98765 43218",
+  "phone": "+91 7589045547",
+  "whatsapp": "+91 7589045547",
   "telegram": "@GoldCricketBook_Official",
   "tagline": "The Gold Standard of Online Cricket IDs",
   "seo": {
