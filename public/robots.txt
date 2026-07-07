@@ -1,7 +1,0 @@
-# robots.txt for GoldCricketBook
-User-agent: *
-Allow: /
-Disallow: /admin/
-Disallow: /drafts/
-
-Sitemap: https://goldcricketbook.com/sitemap.xml
